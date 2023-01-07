@@ -1,6 +1,6 @@
 # MechWorld
 MechWorld is a Mechanic service application which use to provide mechanic at user courrent location.
-it hava two application 
+it has two application 
 1. Mechanic application
 2. User application
 Mechanic Application:
